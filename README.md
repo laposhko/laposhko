@@ -6,7 +6,7 @@
       <h1>Hi, I'm Alexandra Laposhko👋</h1>
       <p>
         Frontend Developer | HTML | CSS | JavaScript | TypeScript | React |
-        Next.js
+        Next.js | Node.js
       </p>
       <h2>🚀 Tech Stack</h2>
       <div>

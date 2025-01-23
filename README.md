@@ -42,7 +42,8 @@
         />
       </div>
       <h2>📊 GitHub Stats</h2>
-      <img
+        <div style="display:flex">
+            <img
         src="https://github-readme-stats.vercel.app/api?username=laposhko&show_icons=true&theme=radical"
         alt="GitHub Stats"
         style="width: 100%; max-width: 500px; height:200px"
@@ -52,6 +53,7 @@
         alt="Top Languages"
         style="width: 100%; max-width: 500px; height:200px"
       />
+        </div>
       <h2>🌍 Connect with Me</h2>
       <p>
         <a

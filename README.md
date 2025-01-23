@@ -45,12 +45,12 @@
       <img
         src="https://github-readme-stats.vercel.app/api?username=laposhko&show_icons=true&theme=radical"
         alt="GitHub Stats"
-        style="width: 100%; max-width: 500px"
+        style="width: 100%; max-width: 500px; height:200px"
       />
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=laposhko&layout=compact&theme=radical"
         alt="Top Languages"
-        style="width: 100%; max-width: 500px"
+        style="width: 100%; max-width: 500px; height:200px"
       />
       <h2>🌍 Connect with Me</h2>
       <p>

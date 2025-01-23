@@ -42,18 +42,18 @@
         />
       </div>
       <h2>📊 GitHub Stats</h2>
-        <div style="display:flex">
-            <img
-        src="https://github-readme-stats.vercel.app/api?username=laposhko&show_icons=true&theme=radical"
-        alt="GitHub Stats"
-        style="width: 100%; max-width: 400px; height:200px"
-      />
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=laposhko&layout=compact&theme=radical"
-        alt="Top Languages"
-        style="width: 100%; max-width: 400px; height:200px"
-      />
-        </div>
+        <div style="display: flex">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=laposhko&show_icons=true&theme=radical"
+          alt="GitHub Stats"
+          style="height: 200px"
+        />
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=laposhko&layout=compact&theme=radical"
+          alt="Top Languages"
+          style="height: 200px"
+        />
+      </div>
       <h2>🌍 Connect with Me</h2>
       <p>
         <a

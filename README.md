@@ -42,7 +42,7 @@
         />
       </div>
         
-## 🚀 My Projects  
+## 🚀 My Favorite Projects  
 
 ### 🌊 AquaTrack  
 🔗 [Website](https://full-stack-fusion.vercel.app/) | 📂 [GitHub Repo](https://github.com/laposhko/FullStackFusion)  

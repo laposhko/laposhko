@@ -41,7 +41,8 @@
           style="width: 40px; margin: 5px"
         />
       </div>
-    ## 🚀 My Projects  
+        
+## 🚀 My Projects  
 
 ### 🌊 AquaTrack  
 🔗 <a href="https://full-stack-fusion.vercel.app/" target="_blank">Website</a> |  

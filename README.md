@@ -90,12 +90,14 @@ A commercial project for a mobile game landing page.
       <p>
         <a
           href="https://www.linkedin.com/in/oleksandra-laposhko/"
+            target="_blank"
           style="text-decoration: none; color: blue"
           >LinkedIn</a
         >
         |
         <a
           href="https://t.me/username09"
+            target="_blank"
           style="text-decoration: none; color: blue"
           >Telegram</a
         >
